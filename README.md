@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() { N
-    int temp1, temp2, temp3;
+    int temp1, temp2, temp3; 
 
     // Input
     cout << "Enter first temperature reading: ";
