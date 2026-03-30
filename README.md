@@ -1,7 +1,7 @@
 # Pat1-subtask2#include <iostream>
 using namespace std;
 
-int main() { N
+int main() { N 
     int temp1, temp2, temp3; 
 
     // Input
